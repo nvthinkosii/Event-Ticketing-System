@@ -1,0 +1,13 @@
+C:\Users\Lindokuhle Nkosi\source\repos\EventHub\EventHub\bin\Debug\EventHub.exe.config
+C:\Users\Lindokuhle Nkosi\source\repos\EventHub\EventHub\bin\Debug\EventHub.exe
+C:\Users\Lindokuhle Nkosi\source\repos\EventHub\EventHub\bin\Debug\EventHub.pdb
+C:\Users\Lindokuhle Nkosi\source\repos\EventHub\EventHub\obj\Debug\EventHub.csproj.AssemblyReference.cache
+C:\Users\Lindokuhle Nkosi\source\repos\EventHub\EventHub\obj\Debug\EventHub.LoginForm.resources
+C:\Users\Lindokuhle Nkosi\source\repos\EventHub\EventHub\obj\Debug\EventHub.Properties.Resources.resources
+C:\Users\Lindokuhle Nkosi\source\repos\EventHub\EventHub\obj\Debug\EventHub.csproj.GenerateResource.cache
+C:\Users\Lindokuhle Nkosi\source\repos\EventHub\EventHub\obj\Debug\EventHub.csproj.CoreCompileInputs.cache
+C:\Users\Lindokuhle Nkosi\source\repos\EventHub\EventHub\obj\Debug\EventHub.exe
+C:\Users\Lindokuhle Nkosi\source\repos\EventHub\EventHub\obj\Debug\EventHub.pdb
+C:\Users\Lindokuhle Nkosi\source\repos\EventHub\EventHub\obj\Debug\EventHub.AdminForm.resources
+C:\Users\Lindokuhle Nkosi\source\repos\EventHub\EventHub\obj\Debug\EventHub.MemberForm.resources
+C:\Users\Lindokuhle Nkosi\source\repos\EventHub\EventHub\obj\Debug\EventHub.TransactionsForm.resources

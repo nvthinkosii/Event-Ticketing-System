@@ -1,0 +1,28 @@
+READ ME FIRST
+
+EVENT HUB TICKETING SYSTEM
+IMPORTANT INSTRUCTIONS:
+
+1. Open the project using:
+  EventHub.csproj
+
+2. Go inside the folder named EventHub to get:
+   EventHub.csproj
+
+3. This system is built using:
+  C# Windows Forms Application (.NET)
+
+4. Do NOT open EventHub.slnx file.
+  It is not required and may not open on all machines.
+
+5. Run the project using:
+  Start button (F5) in Visual Studio
+
+6. Default login:
+  Select Admin or Member from login screen
+
+7. If Member login is used:
+  Select a member and enter password (1234)
+
+Thank you.
+Developed by: Lindokuhle Nkosi
