@@ -72,5 +72,4 @@ A desktop-based Event Ticketing System developed using **C# Windows Forms**. The
 ## Author
 
 **Lindokuhle Nkosinathi Nkosi**
-
 GitHub: https://github.com/nvthinkosii
